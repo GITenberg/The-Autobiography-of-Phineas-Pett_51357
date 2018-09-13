@@ -1,0 +1,33 @@
+_repo: The-Autobiography-of-Phineas-Pett_51357
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pett, Phineas
+    birthdate: 1570
+    deathdate: 1647
+    gutenberg_agent_id: '46375'
+    url: http://www.gutenberg.org/2009/agents/46375
+  editor:
+    agent_name: Perrin, William Gordon
+    birthdate: 1874
+    gutenberg_agent_id: '43770'
+    url: http://www.gutenberg.org/2009/agents/43770
+description: ''
+gutenberg_issued: '2016-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51357'
+  lccn: '19006018'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Sources'
+- !lcsh 'Great Britain -- History, Naval -- Sources'
+- !lcc 'DA'
+- !lcsh 'Great Britain. Royal Navy -- History -- Sources'
+- !lcsh 'Shipbuilding -- Great Britain -- History'
+- GITenberg
+title: The Autobiography of Phineas Pett
+url: http://www.gutenberg.org/ebooks/51357
